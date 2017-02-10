@@ -1,0 +1,10 @@
+Privacy Policy-
+This app uses a firebase server to save match data, and can be accessed by multiple teams through the GearData app.
+Please note that the name of the user who inputs data is saved along with the data. This is so your team can
+identify who sent in the data. Though your team number and regional code is used to separate this data it will not
+stop another team with the correct numbers from looking at a specific match (No other personal data is saved
+besides the name you input and your team number). Should you not feel safe using the firebase server then there
+are two other options to save your data. Saving to a file on the phone, or sent through SMS text. We will not be
+looking at the data sent in by other teams, but we cannot guarantee what other teams will decide to do. If you are
+still having problems please contact us.
+Thank you for your cooperation. -GearScout Developers
