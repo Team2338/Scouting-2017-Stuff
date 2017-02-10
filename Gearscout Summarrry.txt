@@ -1,0 +1,28 @@
+In your FRC regional event, do you ever feel 
+as if picking the perfect alliance partner for you is a troubling process?
+Picking out the proper team for you by shifting through 
+the heaps of match data is as tedious as it is time consuming.
+Oswego 2338's newest GerScout app has been designed to eliminate these tribulations.
+It's ability to scout autonomous, teleoperated, and qualitative notes all in one digital environment,
+GearScout 2017 allows a streamlining of data for all teams participating in FIRST Steamworks. The app
+does not require a connection to the internet to save the recorded data, though it is recommended,
+because the data can either be sent to an online server, sent via text message, or saved to the device in a 
+spreadsheet file. The data from the app can also GearScout is updated frequently throughout the competition season and will continually improve
+as it is further tested and implemented.
+
+New features from last year:
+-mobile server accessing with our GearData app! Link:_______
+-optimized UI
+-enhanced graphics
+-help page
+-improved saving
+- new server, now with automatic offline data cashing
+-credits menu
+-an even better loading screen
+-better server access with the new GearData app
+-we use teamwork now
+
+Questions, comments, and concerns are all welcome. 
+Contact us at first2338@gmail.com, we'd love to hear your feedback and
+ideas for future versions 
+
