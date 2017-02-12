@@ -1,0 +1,17 @@
+In your FRC regional event, do you ever feel as if picking the perfect alliance partner for you is a troubling process? Picking out the proper team for you by shifting through the heaps of match data is as tedious as it is time consuming.
+Team 2338's newest scouting app, GearScout 2017, has been designed to eliminate these tribulations. It's ability to scout autonomous, teleoperated, and qualitative notes all in one digital environment, GearScout 2017 allows a streamlining of scouting data collection for all teams participating in FIRST Steamworks. The app does not require a connection to the internet to save the recorded data, but it is very helpful, as the new online server can help maxamize the functionality of the app. Best of all, even if you lose connection, all your data will automatically be uploaded once an internet connection is restored. Other legacy modes, like saving to a spreadsheet and sending a text, are still available. Scouting data from the app can now even be acessed on the go, with the use of our new app, GearData.
+GearScout is updated frequently throughout the competition season and will continually improve as it is further tested and implemented.
+
+New features from last year:
+- New server, now with automatic offline data caching
+- Mobile server access (with use of the GearData app)
+- Optimized, modern interface
+- Enhanced graphics
+- Help page
+- Improved saving
+- Credits
+- An even better loading screen
+- Advanced use of team work
+
+Questions, comments, and concerns are all welcome. 
+Contact us at first2338@gmail.com, we'd love to hear your feedback and ideas for future versions.

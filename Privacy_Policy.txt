@@ -1,10 +1,9 @@
-Privacy Policy-
-This app uses a firebase server to save match data, and can be accessed by multiple teams through the GearData app.
-Please note that the name of the user who inputs data is saved along with the data. This is so your team can
-identify who sent in the data. Though your team number and regional code is used to separate this data it will not
-stop another team with the correct numbers from looking at a specific match (No other personal data is saved
-besides the name you input and your team number). Should you not feel safe using the firebase server then there
-are two other options to save your data. Saving to a file on the phone, or sent through SMS text. We will not be
-looking at the data sent in by other teams, but we cannot guarantee what other teams will decide to do. If you are
-still having problems please contact us.
-Thank you for your cooperation. -GearScout Developers
+Privacy Notice-
+
+This app uses a Firebase server to save match data, and can be accessed by multiple teams through the GearData app. Please note that the name of the user who inputs data is saved along with the data. This is so your team can identify who sent the data. Though your team number and regional code is used to separate this data it will not stop another team with the correct information from looking at your data (No other personal data is saved besides the name you input and your team number). It is highly reccomended that you NOT use the FIRST official regional code, as it would be easy for another team to access your data that way. Should you not feel safe using the firebase server then there are two other options to save your data, saving to a file on the phone, or sent through SMS text to a number you choose. We will not be looking at the data sent in by other teams, but we cannot guarantee what other teams will decide to do. If you still have problems please contact us.
+
+No data collected by GearScout 2017 or stored on Team 2338 servers is shared with 3rd parties, unless it has been anonimized first. We strive to keep your data safe, and any data issues shout be reported immediately.
+
+Thank you for your cooperation. 
+- GearScout Developers
+first2338@gmail.com
