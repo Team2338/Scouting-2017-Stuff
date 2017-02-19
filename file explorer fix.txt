@@ -1,0 +1,7 @@
+If windows file explorer cannot find the generated file when the phone is plugged in, try these things:
+- Create a copy of the file with file manager on your phone
+- Create a compressed version of the file with the file manager on your phone
+- Restart your phone
+- Clear your phone's cache
+- Remove all data from the file manager app (via device settings)
+- Try a different phone
