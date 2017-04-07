@@ -1,4 +1,8 @@
-GearScout:    2017 https://play.google.com/store/apps/details?id=gif.gearscout2017
-GearData:     https://play.google.com/store/apps/details?id=gif.geardata2017
-CD info Post: https://www.chiefdelphi.com/forums/showthread.php?threadid=155324
-Team Website: http://oswegofirst.org/home
+GearScout Links:
+GearScout:	2017 https://play.google.com/store/apps/details?id=gif.gearscout2017
+GearData:	https://play.google.com/store/apps/details?id=gif.geardata2017
+CD info Post:	https://www.chiefdelphi.com/forums/showthread.php?threadid=155324
+
+Additional links:
+Team Website:		http://oswegofirst.org/home
+Scouting Presentation:	https://docs.google.com/presentation/d/1BypNdahx1cqjyXLSkC6-DgDz0XmrW3rHv0X9N0Hmrw8/edit?usp=sharing
